@@ -14,7 +14,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
-Some important thing about testing (maybe...) but probably.\
+Some important thing about testing (maybe...) but probably.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
